@@ -1,0 +1,22 @@
+// CODIGO NAO EXECUTAVEL
+// objetos contem atributos, comportamentos e interagem entre si
+// Procedural
+processamento(valor1, valor2, valor3)
+
+//OO
+objeto = {
+    valor1,
+    valor2,
+    valor3,
+    processamento(){
+        // ...
+    }
+}
+
+objeto.processamento() // foco deixou de ser funcao e passou a ser o objeto
+
+// Principios importantes:
+// 1 - Abstração
+// 2 - encapsulamento
+// 3 - herança
+// 4 - polimorfismo
